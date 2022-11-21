@@ -1,10 +1,12 @@
-# Luisa Fernanda Restrepo
+# Luisa Fernanda Restrepo Perdomo
 
 ## Las prioridades sobre el avance del COVID
 
-### Autor: Luisa Fernanda Restrepo Perdomo
+![UNCTAD](https://unctad.org/sites/default/files/2021-05/2021-05-12_CSTD_1200x675.jpg)
 
-La reseña es sobre una infografía de [El Colombiano], uno de los periódicos más leídos en mi país (https://www.elcolombiano.com/multimedia/infografias/las-prioridades-para-contener-avance-del-covid-19-BF12609228/) sobre **El avance de la pandemia en el mundo**.
+___
+
+La reseña es sobre una infografía de El Colombiano, uno de los periódicos más leídos en mi país (https://www.elcolombiano.com/multimedia/infografias/las-prioridades-para-contener-avance-del-covid-19-BF12609228/) sobre **El avance de la pandemia en el mundo**.
 
 La infografía tiene fecha de los primeros días de marzo cuando se declaró la **cuarentena en muchos países de Latinoamérica**. Esta hace parte de un reportaje más extenso en el que se explica a profundidad los avances de las instituciones y lo que debe hacer la ciudadanía en general con respecto a esta enfermedad.
 
