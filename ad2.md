@@ -2,7 +2,7 @@
 
 ## Datos históricos de los mundiales de Fútbol
 
-! [Pixabay] (https://pixabay.com/es/photos/estadio-de-f%c3%batbol-f%c3%batbol-estadio-227561/)
+! [El Tiempo] (https://www.eltiempo.com/files/image_1200_680/uploads/2020/05/26/5ecd7bc23ad03.jpeg)
 
 ____
 
