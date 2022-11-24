@@ -2,7 +2,7 @@
 
 ## Datos históricos de los mundiales de Fútbol
 
-![mediamagazine] (https://media.admagazine.com/photos/632027f5298a2ce935ff045e/16:9/w_1280,c_limit/453347919)
+![mediamagazine](https://media.admagazine.com/photos/632027f5298a2ce935ff045e/16:9/w_1280,c_limit/453347919)
 
 ____
 
