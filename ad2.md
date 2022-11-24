@@ -2,7 +2,7 @@
 
 ## Datos históricos de los mundiales de Fútbol
 
-! [El Tiempo] (https://www.eltiempo.com/files/image_1200_680/uploads/2020/05/26/5ecd7bc23ad03.jpeg)
+! [Mejorconsalud] (https://mejorconsalud.as.com/fitness/wp-content/uploads/2018/07/mundial-de-futbol.jpg)
 
 ____
 
