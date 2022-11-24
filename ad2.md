@@ -2,7 +2,7 @@
 
 ## Datos históricos de los mundiales de Fútbol
 
-! [Mejorconsalud] (https://mejorconsalud.as.com/fitness/wp-content/uploads/2018/07/mundial-de-futbol.jpg)
+![mediamagazine] (https://media.admagazine.com/photos/632027f5298a2ce935ff045e/16:9/w_1280,c_limit/453347919)
 
 ____
 
