@@ -2,7 +2,7 @@
 
 ## Datos históricos de los mundiales de Fútbol
 
-! [Pixabay] (https://pixabay.com/es/photos/copa-mundial-de-f%c3%batbol-de-2018-3024177/)
+! [Pixabay] (https://pixabay.com/es/photos/copa-mundial-de-f%c3%batbol-de-2018-3024177/).
 
 ____
 
