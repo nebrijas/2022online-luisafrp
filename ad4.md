@@ -5,4 +5,3 @@ En esta práctica y la ad4 vamos a utilizar "pandas" una libreria para trabajar 
 
 Instalación de la librería
 Para instalar la librería "pandas" usaremos la función "pip". La exclamación es necesaria para que se ejecute.
-! pip install pandas
