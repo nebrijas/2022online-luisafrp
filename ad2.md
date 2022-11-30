@@ -1,4 +1,3 @@
-# AD2
 ## Luisa Fernanda Restrepo Perdomo
 
 ## Datos históricos de los mundiales de Fútbol
