@@ -13,11 +13,11 @@ La reseña es sobre una infografía de El Colombiano, uno de los periódicos má
 
 La infografía tiene fecha de los primeros días de marzo cuando se declaró la **cuarentena en muchos países de Latinoamérica**. Esta hace parte de un reportaje más extenso en el que se explica a profundidad los avances de las instituciones y lo que debe hacer la ciudadanía en general con respecto a esta enfermedad.
 
-Es una infografía muy sencilla que muestra con mucha claridad y de forma gráfica los **datos sobre la pandemia en el Mundo, en Latinoamérica y en Colombia** para ubicar al lector en el contexto de una noticia que era nueva para todos en Latinoamérica. El contexto es conciso pero importante para lo que la gente necesitaba saber en ese momento: cómo iba avanzando el COVID en el mundo. 
+Es una infografía muy sencilla que muestra con mucha claridad y de forma gráfica los **datos sobre la pandemia en el mundo, en Latinoamérica y en Colombia** para ubicar al lector en el contexto de una noticia que era nueva para todos en Latinoamérica. El contexto es conciso pero importante para lo que la gente necesitaba saber en ese momento: cómo iba avanzando el COVID en el mundo. 
 
 Primero muestran la situación global para luego hacer zoom por los países de Latinoamérica y detenerse en Colombia. 
 
-Citan a la fuente, tienen un buen rigor para transmitir la información y lo hacen con datos exactos y visualmente bien logrados. Permiten hacer comparativas entre las diferentes zonas afectadas y también entre las personas contagiadas, recuperadas y las muertas hasta ese momento.
+Citan a la fuente, tienen un **buen rigor para transmitir la información** y lo hacen con datos exactos y visualmente bien logrados. Permiten hacer comparativas entre las diferentes zonas afectadas y también entre las personas contagiadas, recuperadas y las muertas hasta ese momento.
 
 ### 1. Metodología
 
