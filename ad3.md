@@ -2,13 +2,15 @@
 
 ## Ejercicio de programación literaria 
 
-En este ejercicio vamos a transformar un código de Python para lograr un scraping de una web, en un ejercicio de programación literaria con Jupyter.
+En este ejercicio vamos a transformar un código de Python para lograr un scraping de una web, en un ejercicio de programación literaria con Jupyter. Así seguiremos trabajando con Jupyter, Github y Markdown. 
 
-Lo primero es que vamos a instalar las librerías que nos van a ayudar a leer el código phyton:
+Tenemos un código en un archivo de python y lo vamos a hacer en un cuaderno de jupyter.
+
+Lo primero es que vemos en el código son las las librerías, vamos a comenzar instalando las que no están disponibles con python y estas librerías nos van a ayudar a leer el código:
 
 
 ```python
-! pip install requests
+!pip install requests
 ```
 
     Requirement already satisfied: requests in c:\users\luisa\anaconda3\lib\site-packages (2.28.1)
@@ -20,7 +22,7 @@ Lo primero es que vamos a instalar las librerías que nos van a ayudar a leer el
 
 
 ```python
-! pip install termcolor
+!pip install termcolor
 ```
 
     Collecting termcolor
@@ -28,7 +30,7 @@ Lo primero es que vamos a instalar las librerías que nos van a ayudar a leer el
     Installing collected packages: termcolor
     Successfully installed termcolor-2.1.1
     
-
+Ahora vamos a llamar a las librerías instaladas. La librería request es una librería de python que permite hacer peticiones HTTP. La librería CSV (valores separados por comas) es un formato común de importación y exportación de hojas de cálculo y bases de datos. BeautifulSoup permite extraer información de contenido en formato HTML. Pandas se especializa en el manejo y análisis de estructuras de datos. 
 
 ```python
 import requests
