@@ -6,7 +6,7 @@
 
 ___
 
-La reseña es sobre una infografía de El Colombiano, uno de los periódicos más leídos en mi país. El artículo se puede leer aquí: (https://www.elcolombiano.com/multimedia/infografias/las-prioridades-para-contener-avance-del-covid-19-BF12609228/) sobre **El avance de la pandemia en el mundo**.
+La reseña es sobre una infografía de El Colombiano, uno de los periódicos más leídos en mi país. El artículo se puede [leer aquí](https://www.elcolombiano.com/multimedia/infografias/las-prioridades-para-contener-avance-del-covid-19-BF12609228/) sobre **El avance de la pandemia en el mundo**.
 
 ![Elcolombiano](https://www.elcolombiano.com/documents/10157/0/1573x1142/0c0/0d0/none/11101/JXQG/image_content_35375315_20200311201312.jpg)
 
