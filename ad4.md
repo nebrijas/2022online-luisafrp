@@ -1,4 +1,6 @@
-## Uso de la api covid con pandas
+## Luisa Fernanda Restrepo Perdomo
+
+## Uso de la api COVID19 con pandas
 En esta práctica y la ad4 vamos a utilizar "pandas" una libreria para trabajar sobre los datos de covid19 y analizarlos desde la 
 una api con información cuya URL es: https://covid19api.com/
 
