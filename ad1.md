@@ -8,6 +8,8 @@ ___
 
 La reseña es sobre una infografía de El Colombiano, uno de los periódicos más leídos en mi país. El artículo se puede leer aquí: (https://www.elcolombiano.com/multimedia/infografias/las-prioridades-para-contener-avance-del-covid-19-BF12609228/) sobre **El avance de la pandemia en el mundo**.
 
+![Elcolombiano](https://www.elcolombiano.com/documents/10157/0/1573x1142/0c0/0d0/none/11101/JXQG/image_content_35375315_20200311201312.jpg)
+
 La infografía tiene fecha de los primeros días de marzo cuando se declaró la **cuarentena en muchos países de Latinoamérica**. Esta hace parte de un reportaje más extenso en el que se explica a profundidad los avances de las instituciones y lo que debe hacer la ciudadanía en general con respecto a esta enfermedad.
 
 Es una infografía muy sencilla que muestra con mucha claridad y de forma gráfica los **datos sobre la pandemia en el Mundo, en Latinoamérica y en Colombia** para ubicar al lector en el contexto de una noticia que era nueva para todos en Latinoamérica. El contexto es conciso pero importante para lo que la gente necesitaba saber en ese momento: cómo iba avanzando el COVID en el mundo. 
