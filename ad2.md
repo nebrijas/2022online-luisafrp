@@ -6,7 +6,7 @@
 
 ____
 
-El formato elegido fue un reportaje de datos en el periódico web de El tiempo de Colombia, uno de los periódicos más importantes del país, **sobre datos históricos de los mundiales de fútbol:**.  Lo puedes [leer aquí](https://www.eltiempo.com/datos/mundial-qatar-2022-datos-curiosos-de-la-copa-mundo-de-la-fifa-711095).
+El formato elegido fue un reportaje de datos en el periódico web de El tiempo de Colombia, uno de los periódicos más importantes del país, **sobre datos históricos de los mundiales de fútbol:**. Lo puedes [leer aquí](https://www.eltiempo.com/datos/mundial-qatar-2022-datos-curiosos-de-la-copa-mundo-de-la-fifa-711095).
 Es un artículo relevante dado el contexto del mundial en el que nos encontramos y es un tema de interés para las personas que siguen el fútbol conocer un poco más acerca de la historia de los mundiales a través de datos y cifras. Lo pone en contexto muy bien, presentándonos primero el escenario donde se va a contar la historia para luego pasar a los datos.
 
 Es interesante porque los datos no son solo numéricos, sino que también nos muestran **datos cualitativos relevantes acerca de los futbolistas destacados, las selecciones y su historia, los estadios donde se han jugado los partidos de los mundiales, etc.** 
