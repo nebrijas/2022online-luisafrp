@@ -1,4 +1,4 @@
-## Luisa Fernanda Restrepo
+## Luisa Fernanda Restrepo Perdomo
 
 ## Uso de la api COVID19 con pandas
 
