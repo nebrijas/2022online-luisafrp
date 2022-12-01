@@ -3,7 +3,7 @@
 
 ## Las prioridades sobre el avance del COVID
 
-![UNCTAD](https://unctad.org/sites/default/files/2021-05/2021-05-12_CSTD_1200x675.jpg)
+![imagen de la vacuna contra el COVID](https://unctad.org/sites/default/files/2021-05/2021-05-12_CSTD_1200x675.jpg)
 
 ___
 
