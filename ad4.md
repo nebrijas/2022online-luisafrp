@@ -396,7 +396,7 @@ df.info()
     memory usage: 5.9+ KB
     
 
-Para visualizar una sola de las variables se pone df y el nombre de la variable que quieras visualizar:
+Para visualizar una sola de las variables se pone "df" y el nombre de la variable que quieras visualizar:
 
 
 ```python
@@ -423,13 +423,13 @@ df["Slug"]
 
 ## Tiempo real
 La url que utilizaremos es  https://covid19api.com/countrt/colombia/status/confirmed/live
-Guardaremos los datos como hicimos anteriormente. Pondremos "df_es" para identificar el país, el ejemplo es el de España pero varia de acuerdo al país del que requiramos información. En este caso haremos la tabla de Ecuador, la de España y la de Argentina. 
+Guardaremos los datos como hicimos anteriormente. Pondremos "df_es" para identificar el país, el ejemplo es el de España pero varia de acuerdo al país del que requiramos información. En este caso haremos la tabla de Colombia, Ecuador, República Dominicana y España. 
 
 
 ```python
-url_ec = 'https://api.covid19api.com/country/ecuador/status/confirmed/live'
-df_ec = pd.read_json(url_ec)
-df_ec
+url_col = 'https://api.covid19api.com/country/colombia/status/confirmed/live'
+df_col = pd.read_json(url_col)
+df_col
 ```
 
 
@@ -622,7 +622,7 @@ Establecemos la fecha como la columna de control de este dataframe.
 
 
 ```python
-df_ec.set_index('Date')
+df_col.set_index('Date')
 ```
 
 
@@ -813,7 +813,7 @@ Le añado también los casos confirmados, con la siguiente fórmula:
 
 
 ```python
-df_ec.set_index ('Date')['Cases']
+df_col.set_index ('Date')['Cases']
 ```
 
 
@@ -839,7 +839,7 @@ Con estos datos creamos el gráfico con la función "plot", que significa que ha
 
 
 ```python
-df_ec.set_index('Date')['Cases'].plot()
+df_col.set_index('Date')['Cases'].plot()
 ```
 
 
@@ -859,7 +859,7 @@ Nombramos el gráfico con el atributo title para que quede completo.
 
 
 ```python
-df_ec.set_index('Date')['Cases'].plot(title="Casos de COVID19 en Ecuador")
+df_col.set_index('Date')['Cases'].plot(title="Casos de COVID19 en Ecuador")
 ```
 
 
