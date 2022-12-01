@@ -1,7 +1,7 @@
 ## Luisa Fernanda Restrepo Perdomo
 
 ## Uso de la api COVID19 con pandas
-En esta práctica y la ad4 vamos a utilizar "pandas" una libreria para trabajar sobre los datos de covid19 y analizarlos desde la 
+En esta práctica y la ad4 vamos a utilizar "pandas" una librería para trabajar sobre los datos de covid19 y analizarlos desde la 
 una api con información cuya URL es: https://covid19api.com/
 
 ## Instalación de la librería
@@ -63,7 +63,7 @@ type(miurl)
 
 ## Empieza la magia de pandas
 ### Creamos un dataframe
-La abreviatura que se emplea para dataframe es "df". Existe una función "read_json()" que lee el formato "json" (java script). Dentro del parentesis ponemos el formato de lo que queremos que lea el dataframe, que en este caso es nuestra url.
+La abreviatura que se emplea para el dataframe (que es una serie de series pandas indexadas por un valor) es "df". Existe una función "read_json()" que lee el formato "json" (java script). Dentro del parentesis ponemos el formato de lo que queremos que lea el dataframe, que en este caso es nuestra url.
 
 
 
