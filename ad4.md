@@ -71,7 +71,7 @@ La abreviatura que se emplea para el dataframe (que es una serie de series panda
 df = pd.read_json(miurl)
 ```
 
-Para visualizar los datos llamamos al objeto. La información se nos muestra en una tabla que contiene 3 columnas y una fila de control de pandas que indica las entradas del dataframe.
+Para visualizar los datos llamamos al objeto. La información se nos muestra en una tabla que contiene 3 columnas y una de control de pandas que indica las entradas del dataframe.
 
 
 ```python
