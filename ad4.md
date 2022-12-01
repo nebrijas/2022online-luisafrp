@@ -10,7 +10,7 @@ Para instalar la librería "pandas" usaremos la función "pip". La exclamación 
 
 
 ```python
-! pip install pandas
+!pip install pandas
 
 ```
 
@@ -51,7 +51,7 @@ miurl
 
 
 ```python
-type (miurl)
+type(miurl)
 ```
 
 
