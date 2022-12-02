@@ -127,6 +127,8 @@ Fue la actividad a mi modo de ver más interesante porque pudimos elaborar gráf
 Aquí aprendí lo que es un dataframe, que es un marco de datos que sirve para encerrar, organizar e ilustrar nuestra información.
 A este dataframe se puede explorar de muchas formas y nos brinda la información que queramos para poder comparar los datos y obtenerlos ordenados de forma que podamos hacer gráficos.
 
+![dataframe](dataframe.jpg)
+
 Asímismo aprendí a sobre la función j_son que sirve para leer código JavaScript.
 
 Finalmente, para elaborar un gráfico, objetivo principal de esta actividad, seleccionamos los ejes, en este caso la fecha y el número de casos. Luego lo ilustramos con "plot" de plotear (df_co.set_index('Date')['Cases'].plot()) y por último lo nombramos añadiendo al final la función "title".
