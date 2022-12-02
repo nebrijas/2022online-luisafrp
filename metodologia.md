@@ -136,7 +136,7 @@ Finalmente, para elaborar un gráfico, el objetivo principal de esta actividad, 
 
 **La ad4** se puede [ver aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad4.md)
 
-### Y con eso terminamos las actividades de la materia pero no el aprendizaje :)
+### Y con eso terminamos las actividades de la materia pero no el aprendizaje. ¡Gracias!
 
 
 
