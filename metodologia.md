@@ -32,7 +32,7 @@ Cuando estuve más familiriazada pude añadir en el GitHub imágenes con atribut
 
 En este caso añadí la infografía como una imagen desde la url poniendola entre paréntesis precedida por el atributo alt entre corchetes y el signo de admiración final.
 
-La ad1 se puede [encontrar aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad1.md)
+**La ad1** se puede [ver aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad1.md)
 
 
 **Cada uno desde su usuario en GitHub creo una pequeña página web compuesta por las carpetas de cada una de las actividades que desarrollamos durante el curso**, nombrándolas de la misma forma pues es importante cuidar la unidad en la escritura para facilitar su ejecución.
@@ -49,7 +49,7 @@ En este ejercicio ya estaba más familiarizada con el markdown y el GitHub enton
 
 El comentario estuvo relacionado a lo aprendido en las clases sobre la forma correcta de hacer visualizaciones y el uso de los datos en estas. Este ejercició también se subió al repositorio de GitHub. 
 
-La ad2 se puede [encontrar aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad2.md)
+**La ad2** se puede [ver aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad2.md)
 
 ### Actividad 3 (ad3)
 
@@ -65,7 +65,7 @@ Me pareció un ejercicio muy util para sacar información muy específica por me
 
 Lo más importante de la actividad fue descargar las librerías y ponerlas a correr para luego ejecutar las acciones en orden a obtener los datos.
 
-El ejercicio se puede [encontrar aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad3.md)
+**La ad3** se puede [ver aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad3.md)
 
 **Esta es la forma como se instalan las librerías y los nombres de estas:**
 
@@ -122,20 +122,19 @@ Al finalizar la actividad descargamos del jupyter dos archivos uno en formato ju
 
 La actividad consistió en **conectar desde Jupyter a la API de datos del COVID19** a la que se puede [acceder aquí](https://covid19api.com).
 
-Fue la actividad a mi modo de ver más interesante porque pudimos elaborar gráficos con datos sobre la pandemia de varios paises como Colombia, Ecuador, República Dominicana y España. Además hicimos el recorrido literario de cada una de las acciones.
+Fue la actividad a mi modo de ver más interesante porque pudimos elaborar gráficos con datos relevantes sobre la pandemia de varios paises como Colombia, Ecuador, República Dominicana y España. Además hicimos el recorrido literario de cada una de las acciones mirando los diferentes usos de las variables y los códigos.
 
-Aquí aprendí lo que es un dataframe, que es un marco de datos que sirve para encerrar, organizar e ilustrar nuestra información.
-A este dataframe se puede explorar de muchas formas y nos brinda la información que queramos para poder comparar los datos y obtenerlos ordenados de forma que podamos hacer gráficos.
+Aquí aprendí lo que es un **dataframe,** que es un marco de datos que sirve para encerrar, organizar e ilustrar la información. A este dataframe se le puede explorar de muchas formas y nos brinda la información que necesitamos para comparar los datos y obtenerlos ordenados, de forma que podamos hacer gráficos.
 
 ![dataframe](dataframe.jpg)
 
 Asímismo aprendí a sobre la función j_son que sirve para leer código JavaScript.
 
-Finalmente, para elaborar un gráfico, objetivo principal de esta actividad, seleccionamos los ejes, en este caso la fecha y el número de casos. Luego lo ilustramos con "plot" de plotear (df_co.set_index('Date')['Cases'].plot()) y por último lo nombramos añadiendo al final la función "title".
+Finalmente, para elaborar un gráfico, el objetivo principal de esta actividad, seleccionamos los ejes, en este caso la fecha y el número de casos. Luego lo ilustramos con "plot" de plotear (df_co.set_index('Date')['Cases'].plot()) y por último lo nombramos añadiendo al final la función "title".
 
 ![gráfico COVID19 en Colombia](graficocolombia.jpg)
 
-La ad4 se puede [ver aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad4.md)
+**La ad4** se puede [ver aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad4.md)
 
 ### Y con eso terminamos las actividades de la materia pero no el aprendizaje :)
 
