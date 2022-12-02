@@ -3,7 +3,7 @@
 ## Ad3
 ## Ejercicio de programación literaria 
 
-En este ejercicio vamos a transformar un código de python para lograr un scraping de una web, en un ejercicio de programación literaria con jupyter.
+En este ejercicio vamos a transformar un código de python para lograr un scraping de una web (sacar datos de una web mediante algunas herramientas o librerías que leen el codigo) en un ejercicio de programación literaria con jupyter.
 
 Lo primero es que vamos a hacer es instalar las librerías que nos van a ayudar a leer el código fuente de phyton:
 
