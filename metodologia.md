@@ -133,6 +133,8 @@ Asímismo aprendí a sobre la función j_son que sirve para leer código JavaScr
 
 Finalmente, para elaborar un gráfico, objetivo principal de esta actividad, seleccionamos los ejes, en este caso la fecha y el número de casos. Luego lo ilustramos con "plot" de plotear (df_co.set_index('Date')['Cases'].plot()) y por último lo nombramos añadiendo al final la función "title".
 
+[gráfico COVID19 en Colombia](graficocolombia.jpg)
+
 La ad4 se puede [ver aquí.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad4.md)
 
 
