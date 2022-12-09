@@ -1,6 +1,7 @@
 ## Luisa Fernanda Restrepo Perdomo
 
-## Ad3
+## Actividad dirigida 3
+
 ## Ejercicio de programación literaria 
 
 En este ejercicio vamos a transformar un código de python para lograr un scraping de una web (sacar datos de una web mediante algunas herramientas o librerías) en un ejercicio de programación literaria con jupyter.
