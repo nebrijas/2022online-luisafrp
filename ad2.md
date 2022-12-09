@@ -2,7 +2,7 @@
 
 ## Datos históricos de los mundiales de Fútbol
 
-![Los estadios donde se han jugado partidos del mundial](https://pixabay.com/es/photos/estadio-de-f%c3%batbol-f%c3%batbol-estadio-227561/)
+![Los estadios del mundial](https://pixabay.com/es/photos/estadio-de-f%c3%batbol-f%c3%batbol-estadio-227561/)
 
 ____
 
