@@ -2,7 +2,7 @@
 
 ## Periodismo de Datos II: Herramientas Digitales para la Visualización y Presentación de Datos
 
-## Metodología 
+## Actividad final
 
 En este documento realizado en Jupyter llamado "metodologia" explicaré el **procedimiento de los trabajos y las tareas realizadas durante la asignatura**, para conseguir una web con la funcionalidad Pages.
 
