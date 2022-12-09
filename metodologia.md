@@ -174,7 +174,7 @@ En este ejercicio aprendí lo que es un dataframe, que es un marco de datos que 
 
 ![dataframe](dataframe.jpg)
 
-Asímismo aprendí a sobre la función "j_son", que significa JavaScript Object Notation. Este es una formato basado en texto estándar y se puede usar para representar datos estructurados en la sintaxis JavaScript en forma de texto y transmitirlos de un sistema a otro.
+Asímismo aprendí a sobre la función "j_son", que significa JavaScript Object Notation. Este es un formato basado en texto estándar y se puede usar para representar datos estructurados en la sintaxis JavaScript en forma de texto y transmitirlos de un sistema a otro.
 
 Finalmente, para elaborar un gráfico, objetivo principal de esta actividad, seleccionamos los ejes, en este caso la fecha y el número de casos. Luego lo ilustramos con "plot" de plotear (df_co.set_index('Date')['Cases'].plot()) y por último lo nombramos añadiendo al final la función "title". 
 
