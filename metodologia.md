@@ -170,11 +170,15 @@ Fue la actividad a mi modo de ver más interesante porque pudimos elaborar gráf
 
 Acá seguimos pasos similares a los de la actividad 3: instalamos las liberías, le dimos valor a la variable "miurl" para que pudiera extraer los datos que necesitabamos, usamos dataframes para que estos datos se mostraran de forma ordenada y elaboramos gráficos con los datos obtenidos.
 
-En este ejercicio aprendí lo que es un dataframe, que es un marco de datos que sirve para encerrar, organizar e ilustrar la información. A este dataframe se le puede explorar de muchas formas y nos brinda la información que queramos para poder comparar los datos y obtenerlos de forma ordenada para poder hacer gráficos.
+En este ejercicio aprendí lo que es un dataframe, que es un marco de datos que sirve para encerrar, organizar e ilustrar la información. A este dataframe se le puede explorar de muchas formas y nos brinda la información que queramos para poder comparar los datos y obtenerlos de forma ordenada para poder hacer gráficos. Acá un ejemplo:
+
+![dataframe](dataframe.jpg)
 
 Asímismo aprendí a sobre la función "j_son", que significa JavaScript Object Notation. Este es una formato basado en texto estándar y se puede usar para representar datos estructurados en la sintaxis JavaScript en forma de texto y transmitirlos de un sistema a otro.
 
-Finalmente, para elaborar un gráfico, objetivo principal de esta actividad, seleccionamos los ejes, en este caso la fecha y el número de casos. Luego lo ilustramos con "plot" de plotear (df_co.set_index('Date')['Cases'].plot()) y por último lo nombramos añadiendo al final la función "title".
+Finalmente, para elaborar un gráfico, objetivo principal de esta actividad, seleccionamos los ejes, en este caso la fecha y el número de casos. Luego lo ilustramos con "plot" de plotear (df_co.set_index('Date')['Cases'].plot()) y por último lo nombramos añadiendo al final la función "title". 
+
+![gráfico COVID19 en Colombia](graficocolombia.jpg)
 
 La ad4 se puede ver [aquí en el repositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad4.md)
 
