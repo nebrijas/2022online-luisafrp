@@ -45,7 +45,7 @@ Cuando estuve más familiariazada, pude añadir en el GitHub imágenes con atrib
 
 Gracias a esta actividad pude aprender sobre el lenguaje Markdowmn y conocer un modo fácil de construir una página web desde un repositorio online que tiene muchas funcionalidades.
 
-**La ad1 se puede encontrar en [este enlace del repositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad1.md)**
+**La ad1 se puede ver en [este enlace del repositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad1.md)**
 
 
 El siguiente paso consistió en que **cada uno, desde su usuario en GitHub, creó una página web sencilla compuesta por las carpetas de cada una de las actividades que desarrollamos durante el curso**, nombrándolas de la misma forma pues es importante cuidar la unidad en la escritura web para facilitar su ejecución.
@@ -64,7 +64,7 @@ Añadí la infografía que analicé, precedida por un atributo alt que explica e
 
 El comentario estuvo relacionado a lo aprendido en las clases sobre la forma correcta de hacer visualizaciones y el uso correcto de los datos. 
 
-**La ad2 se puede encontrar en [este enlace del repositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad2.md)**
+**La ad2 se puede ver en [este enlace del repositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad2.md)**
 
 ### Actividad 3 (ad3)
 
@@ -82,7 +82,7 @@ Me pareció un ejercicio muy útil para extraer información muy específica por
 
 Lo más importante de la actividad fue descargar las librerías y ponerlas a correr para luego ejecutar las acciones en orden a obtener los datos.
 
-**La ad3 se puede encontrar [en este respositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad3.md)**
+**La ad3 se puede ver [en este respositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad3.md)**
 
 Para hacer el scraping comenzamos instalando las librerías que no están incluidas dentro de Anaconda usando !pip que es el programa de instalación de Python. El código que usamos fue el siguiente:
 
@@ -168,7 +168,7 @@ La actividad consistió en **conectar desde Jupyter a la API de datos del COVID1
 
 Fue la actividad a mi modo de ver más interesante porque pudimos elaborar gráficos con datos sobre la pandemia de varios paises como Colombia, Ecuador, República Dominicana y España. Además hicimos el recorrido literario de cada una de las acciones.
 
-Acá seguimos pasos similares a los de la actividad 3: instalamos las liberías, le dimos valor a la variable "miurl" para que pudiera extraer los datos que necesitabamos, usamos dataframes para que estos datos se mostraran de forma ordenada y elaboramos gráficos con los datos obtenidos.
+Acá seguimos pasos similares a los de la actividad 3: instalamos las librerías, le dimos valor a la variable "miurl" para que pudiera extraer los datos que necesitabamos, usamos dataframes para que estos datos se mostraran de forma ordenada y elaboramos gráficos con los datos obtenidos.
 
 En este ejercicio aprendí lo que es un dataframe, que es un marco de datos que sirve para encerrar, organizar e ilustrar la información. A este dataframe se le puede explorar de muchas formas y nos brinda la información que queramos para poder comparar los datos y obtenerlos de forma ordenada para poder hacer gráficos. Acá un ejemplo:
 
