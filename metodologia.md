@@ -180,7 +180,7 @@ Finalmente, para elaborar un gráfico, objetivo principal de esta actividad, sel
 
 ![gráfico COVID19 en Colombia](graficocolombia.jpg)
 
-La ad4 se puede ver [aquí en el repositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad4.md)
+**La ad4 se puede ver [aquí en el repositorio de GitHub.](https://github.com/nebrijas/2022online-luisafrp/blob/main/ad4.md)**
 
 
 ## Conclusión
